@@ -28,8 +28,10 @@ $ pip install keras==2.1.4
 $ pip install requests-oauthlib
 ```
 
-## Contribution
-
 ## Licence
 
+MIT
+
 ## Author
+
+Riku
